@@ -11,5 +11,6 @@ to train_vector.txt and test_vector.txt files..
 mk_svm.py:
 it is file which uses paragraph vectors in svm to predict test vector reading from train_vector.txt and this svm is trained using train_vector.txt .
 
-PRJECTREPORT IS PRESENT AT GOOGLE DRIVE: 
+PROJECT REPORT IS PRESENT AT GOOGLE DRIVE:
+
 https://drive.google.com/folderview?id=0B1kIdwong5MzR0djVHdjREZvNGs&usp=sharing
