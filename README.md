@@ -12,4 +12,4 @@ mk_svm.py:
 it is file which uses paragraph vectors in svm to predict test vector reading from train_vector.txt and this svm is trained using train_vector.txt .
 
 PRJECTREPORT IS PRESENT AT GOOGLE DRIVE: 
-https://drive.google.com/file/d/0B3aalu_16PGoMnlWMS1PSlhmaDg/view?usp=sharing
+https://drive.google.com/folderview?id=0B1kIdwong5MzR0djVHdjREZvNGs&usp=sharing
